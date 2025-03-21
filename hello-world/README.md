@@ -5,9 +5,6 @@ Hola Mundo en Spring Boot.
 ## Tecnologías Utilizadas
 - Java 17+
 - Spring Boot
-- Spring Data JPA
-- PostgreSQL Driver
-- Lombok
 
 ### Construir y ejecutar
 ```sh
