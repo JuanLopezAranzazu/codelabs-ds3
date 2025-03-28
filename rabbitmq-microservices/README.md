@@ -33,7 +33,7 @@ Ejemplo de comunicación entre microservicio con RabbitMQ y Spring Boot.
   Navega al directorio del servicio de productos y ejecuta los siguientes comandos:
 
   ```sh
-  cd orders-service
+  cd products-service
   mvn clean install
   mvn spring-boot:run
   ```
