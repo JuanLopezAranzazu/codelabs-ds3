@@ -1,4 +1,4 @@
-package com.juanlopezaranzazu.api_rest_crud_tests.contrlollers;
+package com.juanlopezaranzazu.api_rest_crud_tests.controllers;
 
 import com.juanlopezaranzazu.api_rest_crud_tests.dtos.UserRequest;
 import com.juanlopezaranzazu.api_rest_crud_tests.dtos.UserResponse;
