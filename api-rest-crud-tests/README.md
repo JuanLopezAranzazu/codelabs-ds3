@@ -15,6 +15,14 @@ mvn clean install
 mvn spring-boot:run
 ```
 
+## Ejecución de pruebas
+
+Para ejecutar las pruebas del proyecto, usa el siguiente comando:
+
+```sh
+mvn test
+```
+
 ### Generar el archivo JAR
 Para generar el archivo JAR de tu proyecto, ejecuta el siguiente comando:
 
