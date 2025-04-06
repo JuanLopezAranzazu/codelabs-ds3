@@ -58,8 +58,8 @@ public class GlobalExceptionHandler {
     @ExceptionHandler(DataAccessException.class)
     public ResponseEntity<Map<String, Object>> handleDataAccessException(DataAccessException ex) {
         Map<String, Object> response = new HashMap<>();
-        response.put("mensaje", "Error al acceder a la base de datos.");
-        response.put("error", ex.getMessage().concat(": ").concat(ex.getMostSpecificCause().getMessage()));
+        response.put("error", "Error de base datos: " + ex.getMessage().concat(": ").concat(ex.getMostSpecificCause().getMessage()));
+        response.put("status", HttpStatus.INTERNAL_SERVER_ERROR.value());
         return new ResponseEntity<>(response, HttpStatus.INTERNAL_SERVER_ERROR);
     }
 }
