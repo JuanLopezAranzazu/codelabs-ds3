@@ -22,7 +22,7 @@ spec:
         app: auth-service
     spec:
       containers:
-        - name: pais
+        - name: auth
           image: alvarosalazar/auth-service:latest
           ports:
             - containerPort: 8080
