@@ -14,7 +14,6 @@ Verificar el clúster
 kubectl get nodes
 ```
 
-
 ## Desplegar tu primera aplicación
 
 Crear un deployment con nginx
@@ -61,13 +60,13 @@ kubectl delete deployment nginx-deploy
 ## Resultados
 
 Comandos para desplegar la aplicación
-![Desplegar Aplicacion](/docs/images/desplegar-aplicacion.png)
+![Desplegar Aplicacion](/kubernetes-basic-level/images/desplegar-aplicacion.png)
 
 Acceder a la aplicación
-![Acceder Aplicacion](/docs/images/acceder-aplicacion.png)
+![Acceder Aplicacion](/kubernetes-basic-level/images/acceder-aplicacion.png)
 
 Comandos para escalar la aplicación
-![Escalar Aplicacion](/docs/images/escalar-aplicacion.png)
+![Escalar Aplicacion](/kubernetes-basic-level/images/escalar-aplicacion.png)
 
 Comandos para eliminar todo
-![Eliminar Aplicacion](/docs/images/eliminar-aplicacion.png)
+![Eliminar Aplicacion](/kubernetes-basic-level/images/eliminar-aplicacion.png)
