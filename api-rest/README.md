@@ -17,10 +17,10 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
 
-## 3. ¿Qué hace la anotación @Entity en la clase Pais y por qué es necesaria?
+## 3. ¿Qué hace la anotación `@Entity` en la clase Pais y por qué es necesaria?
 La anotación `@Entity` marca la clase Pais como una entidad JPA que será mapeada a una tabla en la base de datos. Es necesaria para que Hibernate gestione su persistencia.
 
-## 4. ¿Cuál es la función de JpaRepository y por qué se usa en la capa de persistencia?
+## 4. ¿Cuál es la función de `JpaRepository` y por qué se usa en la capa de persistencia?
 `JpaRepository` proporciona métodos CRUD listos para usar. Se utiliza para acceder a la base de datos sin escribir código SQL o implementar repositorios manualmente.
 
 ## 5. ¿Cómo se implementa la inyección de dependencias en el servicio PaisService y por qué es importante?
