@@ -56,29 +56,29 @@ docker compose down
 
 ## Resultados
 
-Levantar el contenedor
+### Levantar el contenedor
 ![Leventar Contenedor](/graalvm-service/images/levantar-contenedor.png)
 
-Entrar contenedor
+### Entrar contenedor
 ![Entrar Contenedor](/graalvm-service/images/entrar-contenedor.png)
 
-Instalar dependencias
+### Instalar dependencias
 ![Instalar Dependencias](/graalvm-service/images/instalar-dependencias.png)
 
-Instalar sdkman
+### Instalar sdkman
 ![Instalar sdkman](/graalvm-service/images/instalar-sdkman.png)
 
-Instalar graalvm
+### Instalar graalvm
 ![Instalar graalvm](/graalvm-service/images/instalar-graalvm.png)
 
-Instalar Java 23
+### Instalar Java 23
 ![Instalar Java 23](/graalvm-service/images/instalar-java-23.png)
 
-Compilar Binario
+### Compilar Binario
 ![Compilar Binario](/graalvm-service/images/compilar-binario.png)
 
-Construir Imagen
+### Construir Imagen
 ![Construir Imagen](/graalvm-service/images/construir-imagen.png)
 
-Ejecutar Imagen
+### Ejecutar Imagen
 ![Ejecutar Imagen](/graalvm-service/images/ejecutar-imagen.png)

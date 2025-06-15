@@ -59,14 +59,14 @@ kubectl delete deployment nginx-deploy
 
 ## Resultados
 
-Comandos para desplegar la aplicación
+### Comandos para desplegar la aplicación
 ![Desplegar Aplicacion](/kubernetes-basic-level/images/desplegar-aplicacion.png)
 
-Acceder a la aplicación
+### Acceder a la aplicación
 ![Acceder Aplicacion](/kubernetes-basic-level/images/acceder-aplicacion.png)
 
-Comandos para escalar la aplicación
+### Comandos para escalar la aplicación
 ![Escalar Aplicacion](/kubernetes-basic-level/images/escalar-aplicacion.png)
 
-Comandos para eliminar todo
+### Comandos para eliminar todo
 ![Eliminar Aplicacion](/kubernetes-basic-level/images/eliminar-aplicacion.png)

@@ -208,23 +208,23 @@ kubectl delete service webapp-volumen-service
 
 ## Resultados
 
-Comandos para crear deployment y service
+### Comandos para crear deployment y service
 ![Crear Deployment Service](/kubernetes-intermediate-level/images/crear-deployment-service.png)
 
-Acceder a la aplicación
+### Acceder a la aplicación
 ![Acceder Aplicacion](/kubernetes-intermediate-level/images/acceder-aplicacion.png)
 
-Comandos para externalizar configuraciones con ConfigMap
+### Comandos para externalizar configuraciones con ConfigMap
 ![ConfigMap](/kubernetes-intermediate-level/images/configmap.png)
 
-Comandos para manejar información sensible con Secrets
+### Comandos para manejar información sensible con Secrets
 ![Secrets](/kubernetes-intermediate-level/images/secrets.png)
 
-Comandos para montar archivos como volúmenes
+### Comandos para montar archivos como volúmenes
 ![Volumenes](/kubernetes-intermediate-level/images/volumenes.png)
 
-Acceder a la aplicación HTML
+### Acceder a la aplicación HTML
 ![Acceder Aplicacion HTML](/kubernetes-intermediate-level/images/acceder-aplicacion-html.png)
 
-Comandos para limpieza de los recursos
+### Comandos para limpieza de los recursos
 ![Limpieza Recursos](/kubernetes-intermediate-level/images/limpieza-recursos.png)

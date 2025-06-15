@@ -268,8 +268,8 @@ http://localhost:8082/
 
 ## Resultados
 
-Comandos para crear los recursos
+### Comandos para crear los recursos
 ![Crear Recursos](/k8s-auth-demo/images/crear-recursos.png)
 
-Comandos para exponer los servicios
+### Comandos para exponer los servicios
 ![Crear Recursos](/k8s-auth-demo/images/exponer-servicios.png)
