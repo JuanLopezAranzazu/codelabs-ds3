@@ -37,3 +37,23 @@ Ejemplo de comunicación entre microservicio con RabbitMQ y Spring Boot.
   mvn clean install
   mvn spring-boot:run
   ```
+
+## Resultados
+
+### Levantar contenedores
+![Levantar Contenedores](/rabbitmq-microservices/images/levantar-contenedores.png)
+
+### Ejecutando microservicio de productos
+![Ejecutando Productos](/rabbitmq-microservices/images/ejecutando-productos.png)
+
+### Ejecutando microservicio de pedidos
+![Ejecutando Pedidos](/rabbitmq-microservices/images/ejecutando-pedidos.png)
+
+### Enviando lista de productos
+![Enviando Lista Productos](/rabbitmq-microservices/images/enviando-lista-productos.png)
+
+### Pedido recibido
+![Pedido Recibido](/rabbitmq-microservices/images/pedido-recibido.png)
+
+### Detener contenedores
+![Detener Contenedores](/rabbitmq-microservices/images/detener-contenedores.png)

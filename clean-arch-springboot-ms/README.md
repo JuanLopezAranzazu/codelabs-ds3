@@ -58,3 +58,20 @@ docker compose up -d
 ```sh
 docker compose down
 ```
+
+## Resultados
+
+### Levantar contenedores
+![Levantar Contenedores](/clean-arch-springboot-ms/images/levantar-contenedores.png)
+
+### Listar contenedores
+![Listar Contenedores](/clean-arch-springboot-ms/images/listar-contenedores.png)
+
+### Obtener productos
+![Obtener Productos](/clean-arch-springboot-ms/images/obtener-productos.png)
+
+### Obtener productos por id
+![Obtener Productos ID](/clean-arch-springboot-ms/images/obtener-producto-id.png)
+
+### Detener contenedores
+![Detener Contenedores](/clean-arch-springboot-ms/images/detener-contenedores.png)

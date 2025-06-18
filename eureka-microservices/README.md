@@ -28,3 +28,20 @@ Para cargar las dependencias y ejecutar las aplicaciones Spring Boot, sigue esto
   ./mvn clean package
   java -jar target/nombre-del-archivo.jar
   ```
+
+## Resultados
+
+### Ejecutando microservicio de eureka
+![Ejecutando Eureka](/eureka-microservices/images/ejecutando-eureka.png)
+
+### Ejecutando microservicio de productos
+![Ejecutando Productos](/eureka-microservices/images/ejecutando-productos.png)
+
+### Ejecutando microservicio de pedidos
+![Ejecutando Pedidos](/eureka-microservices/images/ejecutando-pedidos.png)
+
+### Registro microservicios en eureka
+![Registro Eureka](/eureka-microservices/images/registro-eureka.png)
+
+### Prueba de funcionamiento
+![Prueba Funcionamiento](/eureka-microservices/images/prueba-funcionamiento.png)

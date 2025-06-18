@@ -100,3 +100,20 @@ docker compose up -d
 ```sh
 docker compose down
 ```
+
+## Resultados
+
+### Levantar contenedores
+![Levantar Contenedores](/api-rest/images/levantar-contenedores.png)
+
+### Listar contenedores
+![Listar Contenedores](/api-rest/images/listar-contenedores.png)
+
+### Obtener paises
+![Obtener Paises](/api-rest/images/obtener-paises.png)
+
+### Obtener paises por id
+![Obtener Paises ID](/api-rest/images/obtener-pais-id.png)
+
+### Detener contenedores
+![Detener Contenedores](/api-rest/images/detener-contenedores.png)
