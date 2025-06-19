@@ -33,9 +33,6 @@ Código acoplado, difícil de probar, de mantener, con alta dependencia tecnoló
 ## 10. ¿Cómo Clean Architecture facilita la escalabilidad y mantenibilidad en un entorno basado en microservicios?
 Permite escalar servicios de forma independiente y mantener un código limpio, modular y fácil de extender.
 
-## Estructura de capas detallado de un microservicio Spring Boot
-![Estructura Capas Microservicio](/clean-arch-springboot-ms/images/estructura-capas-microservicio.png)
-
 ## Tecnologías Utilizadas
 - Java 17+
 - Spring Boot
